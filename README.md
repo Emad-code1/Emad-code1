@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Emad-code1
+- 🌱 I’m currently learning C programming language
