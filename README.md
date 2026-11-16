@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @Emad-code1
-- 🌱 I’m currently learning C programming language
+- 👋 Hi, I’m @Imad-Hsikkou [imhsikko]
+- 🌱 I’m currently 1337 student & I learn C programming language
